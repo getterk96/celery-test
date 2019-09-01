@@ -1,2 +1,11 @@
 # Project exclude paths
 /python3/
+.DS_Store
+.idea/.gitignore
+.idea/celery-test.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
+tasks.pyc
+workers.log*
