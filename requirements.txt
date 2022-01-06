@@ -1,2 +1,2 @@
 amqp==2.5.1
-celery==4.3.0
+celery==5.2.2
